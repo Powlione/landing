@@ -1,0 +1,30 @@
+.banner {
+  background-image: url(https://images.unsplash.com/photo-1599998372764-ac8cbb604f21?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner .container {
+  left: 50px;
+  top: 200px;
+}
+
+.banner .container h1 {
+  font-size: 45px;
+  color: rgb(142, 5, 46);
+  text-shadow: 1px 1px rgb(255, 255, 255)
+}
+
+.banner .container p {
+  color: white;
+  text-shadow: 1px 1px grey;
+  font-size: 25px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.card_source {
+  justify-content: flex-end;
+  font-size: 9px;
+}

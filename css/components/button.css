@@ -1,0 +1,17 @@
+.button {
+  padding: 16px 30px 16px 30px;
+  border: 2px solid white;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(142, 5, 46);
+  opacity: .8;
+  margin-left: 150px;
+  margin-top: 250px;
+}
+
+.button:hover {
+  border: 2px solid rgb(142, 5, 46);
+  color: rgb(142, 5, 46);
+  background-color: white;
+  opacity: .8;
+}
